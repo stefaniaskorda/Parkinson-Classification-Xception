@@ -1,9 +1,6 @@
 # Parkinson Detection Project
 
 ## Subject: Modelling Parkinson Disease Detection for PD patients with Machine Learning/Deep Learning using Xception.
-## AI & Healthcare topics: diagnosis prediction/accuracy, precision
-### Symptoms and Diagnosis
-
 
 # 0. Context: Parkinson symptoms are different for different people. Common symptoms of Parkinson Disease include:
 
