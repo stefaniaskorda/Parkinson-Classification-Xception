@@ -1,7 +1,7 @@
 # Parkinson Detection Project
 
-##Subject: Modelling Parkinson Disease Detection for PD patients with Machine Learning/Deep Learning using Xception.
-##AI & Healthcare topics: diagnosis prediction/accuracy, precision
+## Subject: Modelling Parkinson Disease Detection for PD patients with Machine Learning/Deep Learning using Xception.
+## AI & Healthcare topics: diagnosis prediction/accuracy, precision
 ### Symptoms and Diagnosis
 
 
